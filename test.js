@@ -39,9 +39,13 @@ function setupTypeWrite() {
   typing = true;
 }
 
-function question_answer(question,answer) {
-  q = document.getElementById("question_field")
-  a = document.getElementById("answer_fiels")
-  q.innerHTML(question)
-  a.innerHTML(answer)
+function question_answer(question) {
+  var a;
+  var q;
+  q = question;
+  a = document.getElementById("answer_field");
+  if (q=1);
+    a.innerHTML=("lorem ipsum");
 }
+
+document.getElementById("question_1").addEventListener('click', question_answer(1))

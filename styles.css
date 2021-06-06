@@ -10,7 +10,7 @@ body {
 }
 
 button {
-    border: none;
+    border: 3px solid rgb(0, 185, 0);
     background-color: black;
     font-family: inherit;
     color: inherit;

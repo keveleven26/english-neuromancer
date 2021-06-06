@@ -8,3 +8,16 @@ body {
     font-size: 1.2rem;
     text-shadow: 0rem 0rem 1rem rgb(0, 220, 0);
 }
+
+button {
+    border: none;
+    background-color: black;
+    font-family: inherit;
+    color: inherit;
+    font-weight: inherit;
+    font-size: inherit;
+    text-shadow: inherit;
+    transition: all 0.5s;
+    padding: 1rem;
+    margin: 0.5rem 0rem 0.5rem 0rem;
+}

@@ -39,13 +39,13 @@ function setupTypeWrite() {
   typing = true;
 }
 
-function question_answer(question) {
+function question_answer() {
   var a;
   var q;
-  q = question;
+  q = this.className;
   a = document.getElementById("answer_field");
-  if (q=1);
+  if (q=="question_1");
     a.innerHTML=("lorem ipsum");
 }
 
-document.getElementById("question_1").addEventListener('click', question_answer(1))
+document.getElementById("question_1").addEventListener('click', question_answer)

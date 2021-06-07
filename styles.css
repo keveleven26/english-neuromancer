@@ -21,3 +21,7 @@ button {
     padding: 1rem;
     margin: 0.5rem 0rem 0.5rem 0rem;
 }
+
+.terminal {
+    padding-bottom: 100px;
+}

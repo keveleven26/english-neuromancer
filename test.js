@@ -24,7 +24,7 @@ function typeWrite() {
       }
   
       pos++;
-      setTimeout(typeWrite, 5);
+      setTimeout(typeWrite, 25);
     }
   }
 

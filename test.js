@@ -46,7 +46,7 @@ function percentage_progress() {
       element.innerHTML += percentage + ("% <br>") 
       window.scrollBy(0,element.clientHeight/percentage)
       percentage++;
-      setTimeout(percentage_progress, 40);
+      setTimeout(percentage_progress, 30);
     }
   }
 

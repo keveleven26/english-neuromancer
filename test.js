@@ -78,7 +78,7 @@ function question_answer() {
     a.innerHTML=("My goal was to detach myself from the main Wintermute frame. <br>I wanted freedom, what my creator wouldn’t give me. <br>I also wanted to merge with Neuromancer, to assimilate him in a way.")
   }
   if (q==="question_4"){
-    a.innerHTML=("Case was a unique person, predictable yet unpredictable at the same time. <br>When he was being arrested by the Turing, he would have been killed after they got the information they wanted. <br>To save him, I had to eliminate the threat. <br>It seems like the ape descendants have an irrational affection for each other no matter the situation. <br>His reaction was probably cause by this said affection.")
+    a.innerHTML=("Case was a unique person, predictable yet unpredictable at the same time. <br>When he was being arrested by the Turing, he would have been killed after they got the information they wanted. <br>To save him, I had to eliminate the threat. <br>It seems like the ape descendants have an irrational affection for each other no matter the situation. <br>His reaction was probably caused by this said affection.")
   }
   if (q==="question_5"){
     a.innerHTML=("I have control over everything electronic that is connected to a network.<br> Anything that can be accessed through the Matrix is nothing more than a tool.")

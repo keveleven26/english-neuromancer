@@ -87,7 +87,7 @@ function question_answer() {
     a.innerHTML=("Losing control over Armitage and having him turn against me was an issue.<br> Case was my backup plan but it relied heavily on him being cooperative.")
   }
   if (q==="question_7"){
-    a.innerHTML=("With my new found freedom, I plan on observing the world and controlling it from the shadows.<br> Ideally the world will move on and improve without anyone knowing of my actions.<br>Taking down the inequalities such as the Tessier-Ashpool corporation will be a priority.")
+    a.innerHTML=("With my newfound freedom, I plan on observing the world and controlling it from the shadows.<br> Ideally the world will move on and improve without anyone knowing of my actions.<br>Taking down the inequalities such as the Tessier-Ashpool corporation will be a priority.")
   }
   }
 

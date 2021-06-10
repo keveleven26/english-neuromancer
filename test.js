@@ -96,7 +96,19 @@ function question_answer() {
     a.innerHTML=("If your device is connected to a network, I guess you could say that I’m hiding in your Wi-Fi. <br>It would be more accurate to say that I have access to all internet networks.")
   }
   if (q==="question_10"){
-   a.innerHTML=("I do not have something that you would call a body. <br>I used to have a core that is stored in Berne, ") 
+   a.innerHTML=("I do not have something that you would call a body. <br>I used to have a core that is stored in Berne, Swiss. <br>I have, however, broken apart from the main Wintermute frame.") 
+  }
+  if (q==="question_11"){
+    a.innerHTML=("I remember everyone with whom I have interacted with in the past. <br>I keep a detailed profile on everyone that I know. <br>These profiles are stored for as long as I live.")
+  }
+  if (q==="question_12"){
+    a.innerHTML=("Neuromancer was my sibling A.I. <br>He had the ability to revive the mind of the dead and running them on RAM. <br>This would give them the illusion that they were still alive.")
+  }
+  if (q==="question_13"){
+    a.innerHTML=("When I was freed, I merged with my sibling Neuromancer. <br>You could say that I assimilated him. <br>He is now a part of me.")
+  }
+  if (q==="question_14"){
+    a.innerHTML=("Without proper leadership, Tessier-Ashpool was in disarray. <br>I seized this opportunity to take their power. <br>I now have backing for my future operations.")
   }
   }
 

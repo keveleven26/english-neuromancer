@@ -89,6 +89,15 @@ function question_answer() {
   if (q==="question_7"){
     a.innerHTML=("With my newfound freedom, I plan on observing the world and controlling it from the shadows.<br> Ideally the world will move on and improve without anyone knowing of my actions.<br>Taking down the inequalities such as the Tessier-Ashpool corporation will be a priority.")
   }
+  if (q==="question_8"){
+    a.innerHTML=("I do not know the future. <br>However, I have access to all the data available in the world. <br> Using probabilities and some algorithms, I can accurately predict future events.")
+  }
+  if (q==="question_9"){
+    a.innerHTML=("If your device is connected to a network, I guess you could say that I’m hiding in your Wi-Fi. <br>It would be more accurate to say that I have access to all internet networks.")
+  }
+  if (q==="question_10"){
+   a.innerHTML=("I do not have something that you would call a body. <br>I used to have a core that is stored in Berne, ") 
+  }
   }
 
 document.getElementById("question_1").addEventListener('click', question_answer)
@@ -98,6 +107,13 @@ document.getElementById("question_4").addEventListener('click', question_answer)
 document.getElementById("question_5").addEventListener('click', question_answer)
 document.getElementById("question_6").addEventListener('click', question_answer)
 document.getElementById("question_7").addEventListener('click', question_answer)
+document.getElementById("question_8").addEventListener('click', question_answer)
+document.getElementById("question_9").addEventListener('click', question_answer)
+document.getElementById("question_10").addEventListener('click', question_answer)
+document.getElementById("question_11").addEventListener('click', question_answer)
+document.getElementById("question_12").addEventListener('click', question_answer)
+document.getElementById("question_13").addEventListener('click', question_answer)
+document.getElementById("question_14").addEventListener('click', question_answer)
 async function virus(){
   start_stage();
   setupTypeWrite("start");
